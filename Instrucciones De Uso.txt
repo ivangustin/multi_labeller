@@ -1,0 +1,6 @@
+Intrucciones:
+
+1. Primero debera cargar la carpeta que se encuentra 
+   dentro del archivo prtools.rar en matlab con la opcion add-path with subfolders. 
+2. Ahora habra la carpeta Interfaz_Multilabeller y abra el archivo 
+   Simulador_Multilabeler.m
